@@ -1,19 +1,104 @@
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Disney Animated Classics with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Which Disney film features an elephant with big ears?",
+      "answers": ["Dumbo", "Bambi", "Snow White"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "Who is Cinderella's fairy godmother?",
+      "answers": ["Fauna", "Flora", "Fairy Godmother"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which Disney princess has a tiger as her companion?",
+      "answers": ["Ariel", "Jasmine", "Belle"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "In 'The Lion King,' who is Simba's father?",
+      "answers": ["Mufasa", "Scar", "Rafiki"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Which Disney film features an ice queen?",
+      "answers": ["Frozen", "Moana", "Tangled"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the name of the toy cowboy in 'Toy Story'?",
+      "answers": ["Buzz", "Woody", "Rex"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which film features a cursed princess in a tower?",
+      "answers": ["Brave", "Sleeping Beauty", "Cinderella"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who is the captain of the 'Black Pearl' in 'Pirates of the Caribbean'?",
+      "answers": ["Barbossa", "Davy Jones", "Jack Sparrow"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "Which character has a magic carpet in 'Aladdin'?",
+      "answers": ["Jafar", "Genie", "Aladdin"],
+      "correctAnswerIndex": 2
+    },
+    {
+      "question": "In 'Beauty and the Beast,' what does Belle love to do?",
+      "answers": ["Cook", "Read", "Sing"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who is the snowman in 'Frozen'?",
+      "answers": ["Olaf", "Sven", "Kristoff"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which film features a demigod named Maui?",
+      "answers": ["Moana", "Hercules", "Mulan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the name of Ariel's crab friend in 'The Little Mermaid'?",
+      "answers": ["Sebastian", "Flounder", "Scuttle"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the villain in 'The Princess and the Frog'?",
+      "answers": ["Facilier", "Gaston", "Maleficent"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which Disney film features a monster world?",
+      "answers": ["Coco", "Monsters, Inc.", "Monster University"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Who helps train Mowgli in 'The Jungle Book'?",
+      "answers": ["Baloo", "Bagheera", "Shere Khan"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which film is about a young Chinese woman who joins the army disguised as a man?",
+      "answers": ["Mulan", "Pocahontas", "Frozen"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who is the villain in 'Aladdin' who wants the Genie's lamp?",
+      "answers": ["Jafar", "Gaston", "Ursula"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Which character is known for dreaming in 'The Princess and the Frog'?",
+      "answers": ["Tiana", "Naveen", "Louis"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the name of the lion who becomes King in 'The Lion King'?",
+      "answers": ["Simba", "Mufasa", "Scar"],
       "correctAnswerIndex": 0
     }
   ]
